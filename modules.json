@@ -1,0 +1,32 @@
+[
+  {
+    "module_code": "adm18_3",
+    "module_label": "ADM 18.3 - IT Maintenance Logging",
+    "module_title": "IT Maintenance Logging",
+    "module_slug": "it_maintenance_logging",
+    "app_code": "adm18",
+    "app_label": "ADM 18 - IT Administration",
+    "bundle_code": "adm",
+    "source_md_path": "doc/rnd/plugs/adm/adm1.md"
+  },
+  {
+    "module_code": "adm18_1",
+    "module_label": "ADM 18.1 - System Configuration Management",
+    "module_title": "System Configuration Management",
+    "module_slug": "system_configuration_management",
+    "app_code": "adm18",
+    "app_label": "ADM 18 - IT Administration",
+    "bundle_code": "adm",
+    "source_md_path": "doc/rnd/plugs/adm/adm1.md"
+  },
+  {
+    "module_code": "adm18_2",
+    "module_label": "ADM 18.2 - User Account Management",
+    "module_title": "User Account Management",
+    "module_slug": "user_account_management",
+    "app_code": "adm18",
+    "app_label": "ADM 18 - IT Administration",
+    "bundle_code": "adm",
+    "source_md_path": "doc/rnd/plugs/adm/adm1.md"
+  }
+]
